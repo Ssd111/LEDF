@@ -1,0 +1,4 @@
+==========
+Args:Namespace(arch='resnet50_ledf', batch_size=64, data_dir='/home/fxyang/wwd/reid/LEDF/data', dataset='market1501', dataset_src1='msmt17', dataset_src2='cuhk02', dataset_src3='cuhk03', dropout=0, epochs=60, eval_step=1, evaluate=False, features=0, height=256, iters=200, logs_dir='/home/fxyang/wwd/reid/LEDF/logs', lr=0.00035, margin=0.3, momentum=0.2, num_instances=4, print_freq=5, resume='', seed=1, step_size=20, temp=0.05, test_batch_size=256, weight_decay=0.0005, width=128, workers=4)
+==========
+==> Load datasets
